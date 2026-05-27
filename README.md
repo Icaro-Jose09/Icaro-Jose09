@@ -1,7 +1,7 @@
 # Olá! Eu sou o Icaro 👋
 
 <a href="https://github.com/Icaro-Jose09">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=3776AB&center=false&vCenter=true&width=500&lines=Iniciante+Full+Stack;Desbravando+o+Código;Estudante+na+FIAP;Apaixonado+por+Basquete" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=3776AB&center=false&vCenter=true&width=500&lines=Iniciante+no+Mundo+de+Desenvolvedor;Desbravando+os+Códigos+e+Linguaguens;Estudante+na+FIAP;Atleta+de+Basquete" alt="Typing SVG" />
 </a>
 
 Sou um iniciante com foco em me tornar um Desenvolvedor Full Stack, descobrindo e aprendendo novas linguagens e modelos, desde APIs robustas até interfaces dinâmicas. Atualmente, sou estudante na FIAP e venho construindo projetos que unem tecnologia, acessibilidade e análise de dados, criando conexões com pessoas. Desde o início, sem experiência nenhuma, entrei na FIAP desafiado a aprender e descobrir um novo mundo com milhares de desafios e experiências incríveis. Tenho como objetivo sempre documentar meu aprendizado e construções aqui no meu perfil do GitHub. Venha comigo nessa jornada!
