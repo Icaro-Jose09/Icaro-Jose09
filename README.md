@@ -1,12 +1,13 @@
-# Olá! Eu sou o Icaro 
+# Olá! Eu sou o Icaro 👋
 
 <a href="https://github.com/Icaro-Jose09">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=3776AB&center=false&vCenter=true&width=500&lines=Desenvolvedor+Full+Stack;Estudante+na+FIAP;Construindo+APIs+e+Interfaces;Apaixonado+por+Tecnologia" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=3776AB&center=false&vCenter=true&width=500&lines=Iniciante+Full+Stack;Desbravando+o+Código;Estudante+na+FIAP;Apaixonado+por+Basquete" alt="Typing SVG" />
 </a>
 
-Sou um iniciante com foceo em me tornar um Desenvolvedor Full Stack descobrindo e aprencendo novas linqguagens modelos, desde APIs robustas até interfaces dinâmicas. Atualmente, sou estudante na FIAP e venho construindo projetos que unem tecnologia, acessibilidade e análise de dados, e criando conexoes com pessoas , desde o inicio sem experiencia nenhuma entrei na fiap desafiado a aprender e descobrir um novo mundo com milhares de desafios e experiencias incrieis, tenho como objetivo sempre documentar meu aprendizado e construcoes aqui no meu perfil do Git- Hub. venha comigo nessa jornada    
+Sou um iniciante com foco em me tornar um Desenvolvedor Full Stack, descobrindo e aprendendo novas linguagens e modelos, desde APIs robustas até interfaces dinâmicas. Atualmente, sou estudante na FIAP e venho construindo projetos que unem tecnologia, acessibilidade e análise de dados, criando conexões com pessoas. Desde o início, sem experiência nenhuma, entrei na FIAP desafiado a aprender e descobrir um novo mundo com milhares de desafios e experiências incríveis. Tenho como objetivo sempre documentar meu aprendizado e construções aqui no meu perfil do GitHub. Venha comigo nessa jornada!
 
-Quando não estou no notebook fingindo estar codando , você provavelmente vai me encontrar jogando basquete pelas quadras e campeonatos pela grande sao paulo e fora do estado tambem, ate mesmo na academia e em passeios de arte com minha familia e amigos vivendo a vida, gosto tambem de mostrar para amigos distantes minhas rotinas e meus outfits no tik tok. 🤟🏾
+Quando não estou no notebook fingindo estar codando, você provavelmente vai me encontrar jogando basquete pelas quadras e campeonatos pela Grande São Paulo e fora do estado também, até mesmo na academia e em passeios de arte com minha família e amigos vivendo a vida. Gosto também de mostrar para amigos distantes minhas rotinas e meus outfits no TikTok. 🤟🏾
+
 ### 🛠️ Minha Stack & Ferramentas
 
 **Backend & Arquitetura:**
@@ -31,7 +32,7 @@ Quando não estou no notebook fingindo estar codando , você provavelmente vai m
 ### 📊 Minhas Estatísticas Dinâmicas
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Icaro-Jose09&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Icaro-Jose09&show_icons=true&theme=tokyonight"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Icaro-Jose09&layout=compact&langs_count=7&theme=tokyonight"/>
 </div>
 
