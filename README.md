@@ -28,14 +28,22 @@ Quando não estou no notebook fingindo estar codando, você provavelmente vai me
 ![Insomnia](https://img.shields.io/badge/Insomnia-black?style=for-the-badge&logo=insomnia&logoColor=5849BE)
 
 ---
-
 ### 📊 Minhas Estatísticas Dinâmicas
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Icaro-Jose09&show_icons=true&theme=tokyonight"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Icaro-Jose09&show_icons=true&theme=tokyonight&hide=issues,prs,contribs&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Icaro-Jose09&layout=compact&langs_count=7&theme=tokyonight"/>
 </div>
 
+---
+### 📊 Meus Dados Reais
+
+Estes cards leem meu progresso no código em tempo real. Cada commit é um passo a mais na jornada!
+
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Icaro-Jose09&show_icons=true&theme=tokyonight&hide=issues,contribs&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Icaro-Jose09&layout=compact&langs_count=7&theme=tokyonight"/>
+</div>
 ---
 
 ### 🚀 Entre em Contato
